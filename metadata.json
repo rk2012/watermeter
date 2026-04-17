@@ -1,0 +1,5 @@
+{
+  "name": "AquaScan: Water Meter Reader",
+  "description": "AI-powered utility for extracting readings and label text from water meter images.",
+  "requestFramePermissions": ["camera"]
+}
